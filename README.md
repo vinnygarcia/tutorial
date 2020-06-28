@@ -1,6 +1,8 @@
 # tutorial
 Folllowing githubs tutorial
 
-Hello, World!
-Vinny here, I like programming!
+New...
+Vinny here, I like jogging!
 That's all you need to know for now :D
+
+DONE!
